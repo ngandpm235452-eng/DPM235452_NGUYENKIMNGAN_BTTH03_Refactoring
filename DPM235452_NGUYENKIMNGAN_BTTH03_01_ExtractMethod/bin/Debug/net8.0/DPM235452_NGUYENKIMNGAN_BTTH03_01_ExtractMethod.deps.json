@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DPM235452_NGUYENKIMNGAN_BTTH03_01_ExtractMethod/1.0.0": {
+        "runtime": {
+          "DPM235452_NGUYENKIMNGAN_BTTH03_01_ExtractMethod.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DPM235452_NGUYENKIMNGAN_BTTH03_01_ExtractMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
